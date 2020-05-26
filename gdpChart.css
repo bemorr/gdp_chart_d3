@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Oxygen:400, 500, 700');
+
+body {
+	text-align: center;
+}
+
+.main {
+	height: 100vh;
+	width: 100vw;
+	display: flex;
+	padding: 15px;
+	align-items: center;
+	justify-content: center;
+	background-color: #708090;
+	background-size: 64px 128px;
+}
+.main #container {
+	height: 560px;
+	width: 1000px;
+	background-color: #fff;
+}
+
+svg {
+	background-color: pink;
+}
+
+#title {
+	text-align: center;
+	font-size: 2.5em;
+	font-family: Oxygen;
+	padding: 20px;
+}
