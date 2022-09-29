@@ -4,7 +4,7 @@
 	"description": "",
 	"main": "gdpChart.js",
 	"dependencies": {
-		"d3": "^5.16.0"
+		"d3": "^7.6.1"
 	},
 	"devDependencies": {},
 	"scripts": {
